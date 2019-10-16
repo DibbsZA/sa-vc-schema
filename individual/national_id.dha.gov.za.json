@@ -1,6 +1,6 @@
 {
   "data": {
-      "attr_names": [
+    "attr_names": [
       "names",
       "surname",
       "identityNumber",
@@ -9,6 +9,8 @@
       "dateOfBirth",
       "countryOfBirth",
       "status"
-    ]
+    ],
+    "name": "national_id.dha.gov.za",
+    "version": "1.0.0"
   }
 }
