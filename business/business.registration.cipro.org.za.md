@@ -8,7 +8,7 @@ Business registration data attributes
 
 ## Date - 2019/10/16
 
-## Status - INCOMPLETE
+## Status - **INCOMPLETE**
 
 ### Schema
 
