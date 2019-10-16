@@ -1,0 +1,31 @@
+{
+    "txn": {
+        "data": {
+            "data": {
+                "attr_names": [
+                "entity_name_trans",
+                "entity_name_trans_effective",
+                "entity_name_assumed_effective",
+                "entity_name",
+                "registration_date",
+                "extra_jurisdictional_registration",
+                "registration_renewal_effective",
+                "registered_jurisdiction",
+                "reason_description",
+                "registration_id",
+                "entity_type",
+                "registration_expiry_date",
+                "entity_status_effective",
+                "home_jurisdiction",
+                "entity_name_effective",
+                "effective_date",
+                "entity_name_assumed",
+                "entity_status",
+                "expiry_date"
+                ],
+                "name": "registration.registries.ca",
+                "version": "1.0.42"
+            }
+        }
+    }
+}
