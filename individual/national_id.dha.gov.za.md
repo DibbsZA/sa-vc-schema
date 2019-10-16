@@ -8,6 +8,8 @@ South African National Identity attributes returned by the the HANIS API.
 
 ## Date - 2019/10/16
 
+## Status - **INCOMPLETE**
+
 ### Schema
 
 ```
