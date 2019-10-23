@@ -10,5 +10,5 @@ Please use the examples in the root folder as templates to design your own schem
 |  Schema Name 	|   Market Sector	|  Last modified 	|  Version 	|   Status 	| Ledger Ref |
 |---	|---	|---	|---	|---	|---  |
 | [business.registration.cipro.org.za](business/business.registration.cipro.org.za.md)	| Business | 2019/10/16 | 1.0.0	| WIP	|  |
-| [national_id.dha.gov.za](individual/national_id.dha.gov.za.md) | Goverment	| 2019/10/16 | 1.0.0 | WIP |  |
+| [national_id.dha.gov.za](individual/national_id.dha.gov.za.md) | Government	| 2019/10/16 | 1.0.0 | WIP |  |
 |   	|   	|   	|   	|   	|     |
