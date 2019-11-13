@@ -4,6 +4,19 @@ This is a documentation repository for a collection of SSI Verified Credential s
 ## Contribution guidelines
 Please use the examples in the root folder as templates to design your own schemas and our documentation conventions.
 
+## Schema Naming Convention
+*Proposed*
+We propose the schema naming convention to be as follows:
+
+*subject*.*sub-topic*.*registering.org.urn*
+
+Where
+  - subject 
+  What is the schema about
+  - sub-topic
+  [Optional] Further clarification of the schema topic
+  - registering.org.urn
+
 ## Schema List
 
 
