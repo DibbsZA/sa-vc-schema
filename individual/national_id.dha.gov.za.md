@@ -4,11 +4,11 @@
 ## Purpose
 South African National Identity attributes returned by the the HANIS API.
 
-## Version - 1.0.0
+## Version - 1.0.1
 
-## Date - 2019/10/16
+## Date - 2019/11/14
 
-## Status - **INCOMPLETE**
+## Status - **COMPLETE**
 
 ### Schema
 
@@ -16,17 +16,19 @@ South African National Identity attributes returned by the the HANIS API.
 {
   "data": {
     "attr_names": [
-      "names",
-      "surname",
-      "identityNumber",
+      "identity_number",
+      "first_name",
+      "middle_names",
+      "last_name",
+      "age",
       "sex",
-      "nationality",
-      "dateOfBirth",
-      "countryOfBirth",
-      "status"
+      "country_of_origin",
+      "date_of_birth",
+      "citizen_status",
+      "nationality"
     ],
     "name": "national_id.dha.gov.za",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 }
 ``` 

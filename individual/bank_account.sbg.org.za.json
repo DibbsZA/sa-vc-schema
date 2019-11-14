@@ -1,0 +1,15 @@
+{
+    "data": {
+      "attr_names": [
+        "bank_name",
+        "bank_code",
+        "account_number",
+        "account_type",
+        "account_status",
+        "account_creation_date",
+        "branch_code"
+      ],
+      "name": "bank_account.sbg.org.za",
+      "version": "1.0.1"
+    }
+  }

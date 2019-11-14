@@ -1,16 +1,18 @@
 {
   "data": {
     "attr_names": [
-      "names",
-      "surname",
-      "identityNumber",
+      "identity_number",
+      "first_name",
+      "middle_names",
+      "last_name",
+      "age",
       "sex",
-      "nationality",
-      "dateOfBirth",
-      "countryOfBirth",
-      "status"
+      "country_of_origin",
+      "date_of_birth",
+      "citizen_status",
+      "nationality"
     ],
     "name": "national_id.dha.gov.za",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 }

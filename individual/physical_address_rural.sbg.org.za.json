@@ -1,0 +1,13 @@
+{
+    "data": {
+      "attr_names": [
+        "village",
+        "ward",
+        "town",
+        "section",
+        "dwelling"
+      ],
+      "name": "physical_address_rural.sbg.org.za",
+      "version": "1.0.1"
+    }
+  }

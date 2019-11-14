@@ -1,0 +1,11 @@
+{
+    "data": {
+      "attr_names": [
+        "township_name",
+        "street_name",
+        "street_number"
+      ],
+      "name": "physical_address_informal.sbg.org.za",
+      "version": "1.0.1"
+    }
+  }

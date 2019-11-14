@@ -1,0 +1,15 @@
+{
+    "data": {
+      "attr_names": [
+        "complex_name",
+        "street_number",
+        "street_name",
+        "suburb",
+        "city",
+        "country",
+        "gps_location"
+      ],
+      "name": "physical_address_complex.sbg.org.za",
+      "version": "1.0.1"
+    }
+  }
