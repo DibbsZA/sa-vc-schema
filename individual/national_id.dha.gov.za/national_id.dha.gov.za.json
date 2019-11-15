@@ -2,12 +2,14 @@
   "data": {
     "attr_names": [
       "identity_number",
+      "names",
       "first_name",
       "middle_names",
+      "surname",
       "last_name",
-      "age",
+      "family_name",
       "sex",
-      "country_of_origin",
+      "country_of_birth",
       "date_of_birth",
       "citizen_status",
       "nationality"
