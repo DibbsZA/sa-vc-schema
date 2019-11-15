@@ -10,7 +10,10 @@ South African National Identity attributes returned by the the HANIS API.
 
 ## Status - **PROPOSED**
 
-### Ledger Record Id: *not ledgered*
+### Ledger Record Ids: 
+
+- **STAGING** `Q5rSXAimLTtZf94mxS4E3j:2:Standard Bank1573807634108:1.0`
+- **LIVE**
 
 ## Attribute Information and Format Convention
 
