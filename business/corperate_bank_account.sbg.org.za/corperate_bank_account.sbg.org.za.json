@@ -1,0 +1,12 @@
+{
+    "data": {
+      "attr_names": [
+          "company_name",
+          "account_number",
+          "creation_date",
+          "status"
+      ],
+      "name": "corperate.bank.account.sbg.org.za",
+      "version": "1.0.0"
+    }
+  }

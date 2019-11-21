@@ -1,0 +1,17 @@
+{
+    "data": {
+      "attr_names": [
+          "entity_name",
+          "registration_number",
+          "bbbee_level",
+          "date_issued",
+          "expiry_date",
+          "percentage_black_owned",
+          "percentage_black_female_owned",          
+          "expemted-micro-enterprise",
+          "qualifying-small-enterprise"
+      ],
+      "name": "bbbee.certificate.dvs.org.za",
+      "version": "1.0.0"
+    }
+  }

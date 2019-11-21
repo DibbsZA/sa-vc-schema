@@ -1,0 +1,13 @@
+{
+    "data": {
+      "attr_names": [
+          "entity_name",
+          "level_of_compliance",
+          "scope",
+          "certificate_number",
+          "date_issued"
+      ],
+      "name": "health.and.safety.certificate.hscc.org.za",
+      "version": "1.0.0"
+    }
+  }

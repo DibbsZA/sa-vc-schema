@@ -1,0 +1,13 @@
+{
+    "data": {
+      "attr_names": [
+          "entity_name",
+          "tax_number",
+          "vat_number",
+          "paye_number",
+          "standing"
+      ],
+      "name": "tax.certificate.sars.gov.za",
+      "version": "1.0.0"
+    }
+  }
