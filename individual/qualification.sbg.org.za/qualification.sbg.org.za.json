@@ -2,14 +2,16 @@
   "data": {
     "attr_names": [
       "institution_name",
+      "institution_type",
       "qualification_code",
       "qualification_name",
-      "date_of_completion",
+      "qualification_type",
+      "final_year",
+      "completion_status",
       "nqf_level",
-      "overall_mark",
       "country_of_issue"
     ],
     "name": "qualification.sbg.org.za",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 }
