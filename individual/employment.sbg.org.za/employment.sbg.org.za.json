@@ -1,15 +1,16 @@
 {
-    "data": {
-      "attr_names": [
-        "employer_name",
-        "employee_identity_number",
-        "employee_number",
-        "start_date",
-        "end_date",
-        "employee_status",
-        "postion"
-      ],
-      "name": "employment.sbg.org.za",
-      "version": "1.0.1"
-    }
+  "data": {
+    "attr_names": [
+      "employer_name",
+      "employee_number",
+      "postion_held",
+      "employee_name",
+      "employee_identity_number",
+      "start_date",
+      "end_date",
+      "employment_status"
+    ],
+    "name": "employment.sbg.org.za",
+    "version": "1.0.1"
   }
+}
