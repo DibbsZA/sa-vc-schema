@@ -1,19 +1,19 @@
-# qualification.sbg.org.za
+# education.sbg.org.za
 
 ## Purpose
 
-Attestation of Educational Qualifications
+Attestation of Educational Achievements
 
-## Version - 1.0.0
+## Version - 1.0.1
 
-## Date - 2019/11/16
+## Date - 2019/11/26
 
 ## Status - **PROPOSED**
 
 ### Ledger Record Id:
 
-- **STAGING** `Q5rSXAimLTtZf94mxS4E3j:2:Standard Bank1573808083301:1.0`
-- **LIVE**
+- **STAGING** ``
+- **LIVE** ``
 
 ## Attribute Information and Format Convention
 
