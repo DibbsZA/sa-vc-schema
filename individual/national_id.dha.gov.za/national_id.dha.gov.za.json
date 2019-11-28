@@ -4,7 +4,7 @@
       "identity_number",
       "names",
       "surname",
-      "sex",
+      "gender",
       "country_of_birth",
       "date_of_birth",
       "citizen_status",

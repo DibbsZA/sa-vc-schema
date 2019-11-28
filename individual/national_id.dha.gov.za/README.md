@@ -26,7 +26,7 @@ South African National Identity attributes returned by the the HANIS API.
 | identity_number  | string    | `9404271234081`            | 13 digit National Identity Number         |
 | names            | string    | `FREEDOM SISTER`           | All Given Name(s)                         |
 | surname          | string    | `AFRICA`                   | Surname                                   |
-| sex              | string    | `F`                        | Gender classification `F`, `M`, `U`       |
+| gender           | string    | `F`                        | Gender classification `F` or `M`          |
 | country_of_birth | string    | `ZAF`                      | `ISO Country Code` of Birthplace Country  |
 | date_of_birth    | string    | `1994-04-27`               | Birth Date (`YYYY-MM-DD`)                 |
 | citizen_status   | string    | `CITIZEN` or `NON-CITIZEN` | RSA Citizenship Status                    |
@@ -42,7 +42,7 @@ South African National Identity attributes returned by the the HANIS API.
       "identity_number",
       "names",
       "surname",
-      "sex",
+      "gender",
       "country_of_birth",
       "date_of_birth",
       "citizen_status",
