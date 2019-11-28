@@ -12,10 +12,10 @@ South African National Identity attributes returned by the the HANIS API.
 
 ### Ledger Record Ids:
 
-| Network     | Ledger ID          |
-|-------------|--------------------|
-| **LIVE**    | _not ledgered yet_ |
-| **STAGING** | `  `               |
+| Network     | Ledger ID                                              |
+|-------------|--------------------------------------------------------|
+| **LIVE**    | _not ledgered yet_                                     |
+| **STAGING** | `Q5rSXAimLTtZf94mxS4E3j:2:DHA.GOV.ZA1574947405220:1.0` |
 
 
 
@@ -49,8 +49,8 @@ South African National Identity attributes returned by the the HANIS API.
       "nationality",
       "marital_status"
     ],
-    "name": "national_id.dha.gov.za",
-    "version": "1.0.2"
+    "name": "DHA.GOV.ZA1574947405220",
+    "version": "1.0"
   }
 }
 ```
