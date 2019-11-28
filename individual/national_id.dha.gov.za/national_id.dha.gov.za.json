@@ -3,18 +3,15 @@
     "attr_names": [
       "identity_number",
       "names",
-      "first_name",
-      "middle_names",
       "surname",
-      "last_name",
-      "family_name",
       "sex",
       "country_of_birth",
       "date_of_birth",
       "citizen_status",
-      "nationality"
+      "nationality",
+      "marital_status"
     ],
     "name": "national_id.dha.gov.za",
-    "version": "1.0.1"
+    "version": "1.0.2"
   }
 }
