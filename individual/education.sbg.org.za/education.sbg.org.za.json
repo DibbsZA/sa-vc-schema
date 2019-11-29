@@ -6,12 +6,15 @@
       "qualification_code",
       "qualification_name",
       "qualification_type",
+      "student_name",
+      "student_identity_number",
+      "student_number",
       "final_year",
       "completion_status",
       "nqf_level",
       "country_of_issue"
     ],
     "name": "education.sbg.org.za",
-    "version": "1.0.1"
+    "version": "1.0"
   }
 }
